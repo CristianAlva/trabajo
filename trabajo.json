@@ -1,0 +1,82 @@
+[
+        {
+            "name": "Programador amb domini PHP / SQL",
+            "description": "Crear App multiplataforma (android-ios),Gestionar plataformes pròpies i externes. Donar assistència al nostre call center (amb suport del proveidor) així com suport informàtic fins a 4 operadores de telemàrketing i 1 d´administració. I gestions de la direcció.",
+            "Rating": "8.16",
+	    "Experiencia": "Se requiere",
+	    "Idiomas": "Catalan - nativo",
+	    "Jornada": "Media jornada",
+	    "Horario": "9 a 14 Dilluns a Divendres ( a combinar)",
+            "Salario": "€700 – €1.000 mensual",
+            "categoria":"Crear App multiplataforma (Android-ios), Gestionar plataformas pròpies i externas",
+            "Ubicacion":"Barcelona",
+            "img": "https://ipleones.cl/wp-content/uploads/2017/11/tec-programador.jpg"
+        },
+        {
+            "name": "Camarero/a",
+            "description": "Hola! en la central buscamos gente Joven, positiva, dinámica , sonriente y que sepa la importancia de cuidar de los detalles para que el cliente pase un agradable momento en nuestro local .",
+            "Rating": "8.54",
+	    "Experiencia": "Se requiere",
+	    "Idiomas": "Castellano - Ingles",
+	    "Jornada": "Jornada completa",
+	    "Horario": "14 a 23 Dilluns a Divendres",
+            "Salario": "€1.000 – €1.300 mensual",
+            "categoria":"Hola! en la central buscamos gente joven, positiva, dinamica y sonriente",
+            "Ubicacion":"Barcelona",
+            "img": "https://media-cdn.tripadvisor.com/media/photo-s/0e/07/b0/51/carta-de-hamburguesas.jpg"
+        },
+        {
+            "name": "Programador/a",
+            "description": "Estamos buscando un programador web que quiera emprender esta aventura junto a nosotros, que sea capaz de aportar ideas y aprender nuevas tecnologías.
+Desarrollarás una webapp que será publicada para android y ios, además de formar parte de los procesos de decisión de la empresa.",
+	    "Rating": "8.50",
+	    "Experiencia": "Se requiere",
+            "Idiomas": "Catalan - nativo",
+	    "Jornada": "Jornada completa",
+	    "Horario": "Lunes a Viernes: 9.30h/ 18.30h",
+            "Salario": "€6 – €10 por hora",
+            "categoria":"Estamos un programador web que tenga buena resolucion de problemas",
+            "Ubicacion":"Sabadell",
+            "img": "https://fi.ort.edu.uy/innovaportal/file/32628/1/estudiar-analista-programador-estudiar-progrmacion-en-universidad-ort.jpg"
+        },
+        {
+            "name": "administrativo/contable",
+            "description": "Administración de fincas selecciona técnico o auxiliar con conocimientos de Office y con experiencia en administración de fincas o contabilidad.",
+            "Rating": "8.16",
+	    "Experiencia": "Se requiere",
+	    "Idiomas": "Catalan – avanzado",
+	    "Jornada": "Jornada completa",
+	    "Horario": "Lunes a viernes de 10 a 14 horas y de 17 a 20 horas",
+            "Salario": "€1000 - €1200",
+            "categoria":"Se solicita auxiliar administrativo con conocimientos de Office",
+            "Ubicacion":"Madrid",
+            "img": "https://www.implika.es/sites/default/files/field/image/empresa-_tecnico_administrativo_los_libros_contables_0.jpg"
+        },
+        {
+            "name": "ASESOR/A FINANCIERO",
+            "description": "Si llevas más de tres años viviendo en Barcelona. Tienes estudios relacionados con Banca/Economía/Derecho y buscas un lugar donde desarrollar tu carrera profesional. Edad entre 25-50 años. Contáctanos. Trabaja respaldado por una de las entidades más importantes del mundo.",
+            "Rating": "8.16",
+	    "Experiencia": "No se requiere",
+	    "Idiomas": "Catalan – nativo",
+	    "Jornada": "Jornada completa",
+	    "Horario": "FLEXIBLE",
+            "Salario": "€12.000 – €40.000 anual",
+            "categoria":"Buscamos personal con don de gente para atender a los clientes",
+            "Ubicacion":"Tarragona",
+            "img": "http://forbes.es/app/uploads/2018/02/asesor_financiero_mediolanum_2.jpg"
+        },
+	{
+	    "name": "ASESOR/A FINANCIERO",
+            "description": "Si llevas más de tres años viviendo en Barcelona. Tienes estudios relacionados con Banca/Economía/Derecho y buscas un lugar donde desarrollar tu carrera profesional. Edad entre 25-50 años. Contáctanos. Trabaja respaldado por una de las entidades más importantes del mundo.",
+            "Rating": "8.16",
+	    "Experiencia": "No se requiere",
+	    "Idiomas": "Catalan – nativo",
+	    "Jornada": "Jornada completa",
+	    "Horario": "FLEXIBLE",
+            "Salario": "€12.000 – €40.000 anual",
+            "categoria":"Buscamos personal con don de gente para atender a los clientes",
+            "Ubicacion":"Tarragona",
+            "img": "http://forbes.es/app/uploads/2018/02/asesor_financiero_mediolanum_2.jpg"
+	}
+
+    ]
